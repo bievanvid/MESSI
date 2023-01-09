@@ -1,0 +1,43 @@
+a{
+    font-size: 30px;
+}
+div{ display: flex; flex-direction: column;
+
+
+}
+caption{
+    text-align: center;
+    font-size: 30px;
+    margin:40px 0px;
+    background-color: aliceblue;
+    color: black;
+    padding:5px;
+    
+    
+}
+table{
+    
+    border-spacing: 40px;
+    table-layout: fixed;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+td{
+    font-size: 25px;
+}
+th div{
+    font-size: 35px;
+    border: 1px solid;
+    border-color: aliceblue;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: #FFED02;
+}
+th div p{
+    font-size: 23px;
+    color:white;
+}
