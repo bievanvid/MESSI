@@ -22,7 +22,7 @@ table{
     border-color: aliceblue;
     table-layout: fixed;
     width: 100%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Poppins", Sans-serif;
 
 }
 td{
@@ -32,10 +32,21 @@ th div{
     font-size: 40px;
     border: 1px solid;
     border-color: aliceblue;
-    margin-right: 180px;
-    margin-left: 180px;
+    margin-right: 50px;
+    margin-left: 50px;
     margin-top: -10px;
     margin-bottom: -10px;
     padding-top: 25px;
     padding-bottom: 25px;
+;}
+
+p.blanc{text-align: center;
+    font-size: 30px;
+    margin:-10px 8px;
+    background-color: aliceblue;
+    color: black;
+    padding:5px;}
+
+p.trofeo{text-align: center;
+
 }
