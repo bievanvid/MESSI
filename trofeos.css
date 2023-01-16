@@ -23,7 +23,7 @@ table{
     table-layout: fixed;
     width: 100%;
     font-style: unset;
-
+    float:none;
 }
 td{
     font-size: 25px;
@@ -72,11 +72,12 @@ p.blanc12{text-align: center;
 
 }
 hr.fr{margin-top: -10px;
-margin-bottom: 50px;}
+margin-bottom: 50px;
+width:400px}
 
 hr{margin-top: -10px;
     margin-bottom: 50px;
-    width:170px;
+    width:200px;
     size: 5px;
     color: white;}
 
